@@ -2,6 +2,7 @@ from pathlib import Path
 
 # Define BASE_DIR
 BASE_DIR = Path(__file__).resolve().parent.parent
+print(BASE_DIR)
 
 # Django settings
 INSTALLED_APPS = [
