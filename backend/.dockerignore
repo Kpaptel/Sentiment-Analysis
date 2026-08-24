@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.git
+.idea
+staticfiles/
+evaluate_sentiment.py
+eval_results.json

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.DS_Store
+staticfiles/
+*.egg-info/
+.idea/
+
+# Python virtualenv (was previously checked in by mistake)
+bin/
+lib/
+pyvenv.cfg
